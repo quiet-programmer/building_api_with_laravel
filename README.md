@@ -1,4 +1,4 @@
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.viewus.v_notes" target="_blank"><img src="https://play-lh.googleusercontent.com/N9hfwLmAxH1eIY6kN9Rji4SSFPhPdcC9AwmavVcz6o1ArGp8bPXigkehbiW4ax4PVh09=w480-h960" width="400"></a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.viewus.v_notes" target="_blank"><img src="https://play-lh.googleusercontent.com/N9hfwLmAxH1eIY6kN9Rji4SSFPhPdcC9AwmavVcz6o1ArGp8bPXigkehbiW4ax4PVh09=w480-h960" width="200"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
