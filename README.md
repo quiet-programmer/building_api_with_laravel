@@ -11,5 +11,3 @@ I will be dropping each progress until I am done with the API. any pull request 
 <h4 align="center">Currently been worked on</h4>
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
