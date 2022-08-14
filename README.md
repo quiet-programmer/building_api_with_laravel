@@ -9,5 +9,3 @@ I will be dropping each progress until I am done with the API. any pull request 
 
 ## API DOC
 <h4 align="center">Currently been worked on</h4>
-
-## License
