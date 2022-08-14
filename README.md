@@ -8,7 +8,7 @@
 </p>
 
 ## About Laravel
-I have an Android Project called VNotes, you can check the repo <a href="">Here.</a> I want to implement a cloud feature fo it, I used Firebase but then decided to build an API for it, since I am still learning Laravel, I saw it as a chance to learn more about the Laravel Framework working on my side projects.
+I have an Android Project called VNotes, you can check the repo <a href="https://github.com/quiet-programmer/hive_note_app">Here.</a> I want to implement a cloud feature fo it, I used Firebase but then decided to build an API for it, since I am still learning Laravel, I saw it as a chance to learn more about the Laravel Framework working on my side projects.
 
 I will be dropping each progress until I am done with the API. any pull request or sending or issues are welcomed as it will help me in learning also.
 
